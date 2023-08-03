@@ -29,7 +29,7 @@ const Register = () => {
 
         // image hosting imgbb
 
-        const url = "https://api.imgbb.com/1/upload?expiration=600&key=ec77ad35f63ea60fb621c01bb7ceaa26"
+        const url = "https://api.imgbb.com/1/upload?key=ec77ad35f63ea60fb621c01bb7ceaa26"
         const formData = new FormData();
         formData.append("image", e.target.files[0])
 
