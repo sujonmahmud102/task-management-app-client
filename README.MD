@@ -7,9 +7,9 @@
 
 # Codes Links
 
-- **Client Side Code Link** -> (https://github.com/sujonmahmud102/task-management-system-client)
+- **Client Side Code Link** -> (https://github.com/sujonmahmud102/task-management-app-client)
 
-- **Server Side Code Link**-> (https://github.com/sujonmahmud102/task-management-system-server)
+- **Server Side Code Link**-> (https://github.com/sujonmahmud102/task-management-app-server)
 
 
 # About Project
